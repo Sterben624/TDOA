@@ -3,7 +3,7 @@ import math
 import numpy as np
 import wave
 from scipy.signal import windows
-from gcc_phat import gcc_phat  # Залишено імпорт, якщо функція винесена окремо
+from utils.gcc_phat import gcc_phat
 
 RATE = 44100
 FRAMES = int(RATE / 4)
