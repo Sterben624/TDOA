@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+audio_for_test/
+__pycache__
+qq/
+my_recordings/
