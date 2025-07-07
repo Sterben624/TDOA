@@ -3,4 +3,3 @@
 
 2. Директорія `stereo-two-usb-micro` - проєкт створення стереофайлу
 2.1. `stereo-two-usb-micro\enhanced_main.py` - зібрати 1 стереофайл з 2 мікфрофонів (не обов'язково USB).
-2.2. `stereo-two-usb-micro\enhanced_main_dual.py` - оригінал.
